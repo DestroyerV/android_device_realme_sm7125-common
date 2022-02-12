@@ -27,3 +27,7 @@ ro.incremental.enable=1
 ro.iorapd.enable=true
 iorapd.perfetto.enable=true
 iorapd.readahead.enable=true
+
+#PPUI 
+ro.pixelplusui.maintainer=Destroyer_V
+org.pixelplusui.device=Realme 6 Pro
