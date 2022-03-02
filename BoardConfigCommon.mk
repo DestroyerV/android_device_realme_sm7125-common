@@ -112,7 +112,7 @@ KERNEL_TOOLCHAIN_PATH := $(shell pwd)/prebuilts/clang/host/linux-x86/clang-proto
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-gnu-
 TARGET_KERNEL_CROSS_COMPILE_ARM32_PREFIX := arm-linux-gnueabi-
 TARGET_KERNEL_SOURCE := kernel/realme/sm7125
-TARGET_KERNEL_CONFIG := atoll_defconfig
+TARGET_KERNEL_CONFIG := dragonsoul_defconfig
 TARGET_KERNEL_ADDITIONAL_FLAGS := \
     HOSTCFLAGS="-fuse-ld=lld -Wno-unused-command-line-argument"
 
